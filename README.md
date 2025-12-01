@@ -11,4 +11,6 @@ All code is organized into Jupyter notebooks for easy reproducibility.
 
 ---
 
-## 📁 Repository Structure
+## 📝 Notes
+- Dataset is not included due to size limits; notebooks contain instructions for loading your own data.
+- This project comes from academic coursework but represents real ML workflow design and evaluation.
